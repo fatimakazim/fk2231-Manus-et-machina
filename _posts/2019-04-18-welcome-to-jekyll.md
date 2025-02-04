@@ -1,14 +1,13 @@
 ---
-title: "Assignment 1: What's in My Bag"
-date: 2025-02-04T15:34:30-04:00
+Assignment 1: Whats in my bag"
+date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - personal
-  - everyday carry
-  - documentation
   - Jekyll
+  - update
 ---
+
 
 ## 🎒 What's in My Bag?  
 
