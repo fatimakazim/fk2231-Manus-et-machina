@@ -22,7 +22,7 @@ Here’s a breakdown of the items in my bag, from tech gadgets to random surpris
 ### 💻 Tech Gadgets:
 - **💻 Laptop** - My portable workstation.  
 - **🔋 Power Bank** - Never running out of battery!  
-- **💻Ipad** - For snapping aesthetic shots.  
+- **💻Ipad** - For taking notes.  
 
 ### 🎨 Fun Extras:
 - **🎨 Sketchbook** - Because creativity strikes anytime.  
