@@ -1,29 +1,39 @@
 ---
-title: "Assignment 1: Whats in my bag"
-date: 2019-04-18T15:34:30-04:00
+title: "Assignment 1: What's in My Bag"
+date: 2025-02-04T15:34:30-04:00
 categories:
   - blog
 tags:
+  - personal
+  - everyday carry
+  - documentation
   - Jekyll
-  - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 🎒 What's in My Bag?  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Ever wondered what essentials I carry with me every day? Here’s a breakdown of the items in my bag, from tech gadgets to random surprises!  
 
-Jekyll also offers powerful support for code snippets:
+### ✨ The Essentials:
+- **📱 Phone** - My lifeline for communication, notes, and capturing moments.  
+- **🎧 Earphones** - For immersive music and focus time.  
+- **📖 Notebook & Pen** - Because good ideas deserve paper.  
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+### 💻 Tech Gadgets:
+- **💻 Laptop** - My portable workstation.  
+- **🔋 Power Bank** - Never running out of battery!  
+- **📸 Camera** - For snapping aesthetic shots.  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### 🎨 Fun Extras:
+- **🎨 Sketchbook & Markers** - Because creativity strikes anytime.  
+- **🍬 Snacks** - Emergency sugar boost!  
+- **👓 Sunglasses** - Gotta stay cool.  
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![What's in My Bag](assets/images/my-bag.jpg)
+
+| Item         | Description                      |
+|-------------|--------------------------------|
+| 📱 Phone    | Used for communication & notes |
+| 🎧 Earphones | For music & focus             |
+| 💻 Laptop   | Work & projects                |
+| 🎨 Sketchbook | Doodles & creative ideas      |
