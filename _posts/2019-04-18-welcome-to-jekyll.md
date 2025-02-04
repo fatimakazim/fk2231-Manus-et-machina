@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Assignment 1: Whats in my bag"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
