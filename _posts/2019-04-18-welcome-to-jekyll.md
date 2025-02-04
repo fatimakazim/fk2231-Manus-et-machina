@@ -11,7 +11,7 @@ tags:
 
 ## 🎒 What's in My Bag?  
 
-Ever wondered what essentials I carry with me every day? Here’s a breakdown of the items in my bag, from tech gadgets to random surprises!  
+Here’s a breakdown of the items in my bag, from tech gadgets to random surprises!  
 
 ### ✨ The Essentials:
 - **📱 Phone** - My lifeline for communication, notes, and capturing moments.  
