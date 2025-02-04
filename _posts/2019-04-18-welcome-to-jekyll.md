@@ -15,18 +15,19 @@ Here’s a breakdown of the items in my bag, from tech gadgets to random surpris
 
 ### ✨ The Essentials:
 - **📱 Phone** - My lifeline for communication, notes, and capturing moments.  
-- **🎧 Earphones** - For immersive music and focus time.  
+- **🎧 Earphones** - For immersive music and focus time.
+- **💳 ID card** - To get anywhere and everywhere.  
 - **📖 Notebook & Pen** - Because good ideas deserve paper.  
 
 ### 💻 Tech Gadgets:
 - **💻 Laptop** - My portable workstation.  
 - **🔋 Power Bank** - Never running out of battery!  
-- **📸 Camera** - For snapping aesthetic shots.  
+- **💻Ipad** - For snapping aesthetic shots.  
 
 ### 🎨 Fun Extras:
-- **🎨 Sketchbook & Markers** - Because creativity strikes anytime.  
+- **🎨 Sketchbook** - Because creativity strikes anytime.  
 - **🍬 Snacks** - Emergency sugar boost!  
-- **👓 Sunglasses** - Gotta stay cool.  
+  
 
 ![What's in My Bag](assets/images/my-bag.jpg)
 
