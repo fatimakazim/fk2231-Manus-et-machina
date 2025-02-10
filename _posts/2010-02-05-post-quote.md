@@ -128,6 +128,7 @@ css: |
 - Anxiety over **machines making independent decisions**.
 
 ---
+![Society](https://cdnassets.hw.net/dims4/GG/1101660/2147483647/resize/480x%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2F49%2F05%2F3a765a0a431ca8896efeda1163a4%2Fbthl-hero.jpg)
 
 ## **The Broader Impact of Transportation Innovations**
 
@@ -140,7 +141,7 @@ css: |
 - **Urbanization flourished**, creating more jobs than were lost.
 
 ---
-
+![Society](https://media.cnn.com/api/v1/images/stellar/prod/180831113528-gettyimages-173979611.jpg?q=w_2676,h_3430,x_0,y_0,c_fill)
 ## **What the Future Holds**
 
 ### **Self-Driving Cars and Urban Transformation**
