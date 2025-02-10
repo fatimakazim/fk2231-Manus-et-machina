@@ -32,10 +32,6 @@ css: |
 ![Vintage Elevator](https://i.ytimg.com/vi/UtkAJscxbZU/maxresdefault.jpg)
 
 
-- The story begins in **1913 at a royal wedding in Berlin**, where Tsar Nicholas II refused to use an elevator due to outdated court protocols.
-- Monarchs like **the German Kaiser, the British Queen, and Kaiser Franz Joseph I** all refused to use elevators.
-- Elevators were seen as a **democratic space**—there was no first-class section, and everyone stood together.
-
 ## **Early Elevators Were Dangerous**
 - Used in mine shafts, they were infamous for **fatal accidents**.
 - **1830s & 1840s:** Passenger elevators relied on hemp ropes, which often snapped.
@@ -50,6 +46,17 @@ css: |
 
 ---
 
+## **Social Anxiety & Class Mixing**
+- Elevators were seen as a **democratic space**—there was no first-class section, and everyone stood together.
+- Monarchs like **the German Kaiser, the British Queen, and Kaiser Franz Joseph I** all refused to use elevators.
+- Elevators forced **all social classes to stand together**.
+- **Elitists disliked the lack of separation** between rich and poor.
+
+### **Elevator Etiquette**
+- Early elevators resembled fancy **sitting rooms**.
+- Debate: Should men **remove their hats in elevators?**
+- **1936:** Politicians still debated this issue.
+
 ## **1. Cities Were Transformed**
 - Before elevators, buildings were **limited to six stories**.
 - **Wealthy people lived on lower floors**, while the poor climbed stairs to upper floors.
@@ -61,44 +68,20 @@ css: |
 
 ---
 
-## **Social Anxiety & Class Mixing**
-- Elevators forced **all social classes to stand together**.
-- **Elitists disliked the lack of separation** between rich and poor.
-
-### **Elevator Etiquette**
-- Early elevators resembled fancy **sitting rooms**.
-- Debate: Should men **remove their hats in elevators?**
-- **1936:** Politicians still debated this issue.
-
 ### **Elevator Sickness**
 - People believed elevators caused **nausea and disorientation**.
-- Similar fears arose with **trains (1800s)** and **VR (today)**.
-
-### **Elevator Control**
-- Originally required **human operators**.
-- Transition to **self-service elevators** met resistance—echoing **modern concerns about automation**.
-
----
-
-## **Elevator Sickness: Real or Imagined?**
-
-### **Motion Sickness in Early Elevators**
 - The abrupt stop caused **bodies to keep moving slightly**, leading to disorientation.
-- Suggested solution: **Pressing against the wall** to stabilize oneself.
-
-### **Scientific Perspective**
-- **Higher floors experience more motion**, causing sway sickness.
-- Documented in **medical literature** as a modern equivalent of early elevator sickness.
+- Similar fears arose with **trains (1800s)** and **VR (today)**.
+---
 
 ### **Psychological Influence**
 - **Fear-mongering in media** can induce symptoms.
 - Example: **If someone mentions fleas, others start scratching!**
 
 ---
-
 ## **Labor Strikes & the Problem of Elevator Control**
 
-### **Operator Strikes**
+### **Operator Strikes, Taking away of jobs**
 - **1943 Rockefeller Center strike:** Stranded **28,000 people**.
 - Offices **shut down**, workers had to **walk dozens of flights**.
 
@@ -107,8 +90,6 @@ css: |
 - **Resistance:** Some cities **banned automated elevators**.
 
 ---
-
-## **Public Fear and the Push for Automation**
 
 ### **Why People Feared Automatic Elevators**
 - **No windows, closed space, little sensation of movement.**
@@ -119,11 +100,6 @@ css: |
 - **Used women in ads to normalize automation.**
 - Highlighted **cost savings for businesses**.
 
-### **Union Opposition & Fear-Mongering**
-- **Argued automation increased accidents and crime.**
-- **1952 article blamed automatic elevators for crime spikes.**
-
----
 
 ## **The Elevator Fear Phenomenon**
 
