@@ -97,7 +97,8 @@ css: |
 ### **Why People Feared Automatic Elevators**
 - **No windows, closed space, little sensation of movement.**
 - **Lack of trust**—people felt safer with a human operator present.
-<img src="https://pessimistsarchive.org/clippings/33091606.jpg" alt="Automation" width="500">
+<img src="https://pessimistsarchive.org/clippings/33091606.jpg" alt="Automation" style="width:500px; height:auto;">
+
 ### **The Elevator Industry’s PR Campaign**
 - **Introduced floor announcements, emergency stop buttons.**
 - **Used women in ads to normalize automation.**
