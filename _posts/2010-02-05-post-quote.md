@@ -73,6 +73,7 @@ css: |
 - People believed elevators caused **nausea and disorientation**.
 - The abrupt stop caused **bodies to keep moving slightly**, leading to disorientation.
 - Similar fears arose with **trains (1800s)** and **VR (today)**.
+![Elevator Sickness](https://pessimistsarchive.org/clippings/39540098.jpg)
 ---
 
 ### **Psychological Influence**
@@ -90,11 +91,13 @@ css: |
 - Eliminated the need for **operators**.
 - **Resistance:** Some cities **banned automated elevators**.
 
+![Automation](https://ethw.org/w/images/thumb/b/bb/1014_-_Otis_elevator_advertisement.jpg/300px-1014_-_Otis_elevator_advertisement.jpg)
 ---
 
 ### **Why People Feared Automatic Elevators**
 - **No windows, closed space, little sensation of movement.**
 - **Lack of trust**—people felt safer with a human operator present.
+![Automation](https://pessimistsarchive.org/clippings/33091606.jpg)
 
 ### **The Elevator Industry’s PR Campaign**
 - **Introduced floor announcements, emergency stop buttons.**
