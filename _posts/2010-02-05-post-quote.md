@@ -57,6 +57,7 @@ css: |
 - Early elevators resembled fancy **sitting rooms**.
 - Debate: Should men **remove their hats in elevators?**
 - **1936:** Politicians still debated this issue.
+![Elevator inside](https://img.apmcdn.org/4e9310c6400c0637a19ba3ed0bd6f1dc28d47f0a/uncropped/415c2c-20171208-elevatorcar.jpg)
 
 ## **1. Cities Were Transformed**
 - Before elevators, buildings were **limited to six stories**.
@@ -97,14 +98,14 @@ css: |
 ### **Why People Feared Automatic Elevators**
 - **No windows, closed space, little sensation of movement.**
 - **Lack of trust**—people felt safer with a human operator present.
-<img src="https://pessimistsarchive.org/clippings/33091606.jpg" alt="Automation" style="width:500px; height:auto;">
+
 
 ### **The Elevator Industry’s PR Campaign**
 - **Introduced floor announcements, emergency stop buttons.**
 - **Used women in ads to normalize automation.**
 - Highlighted **cost savings for businesses**.
 
-
+![Society](https://clickamericana.com/wp-content/uploads/1890-Victorian-elevator-from-J.W.-Reedy-Elevator-Mfg-Co-2-750x860.jpg)
 ## **The Elevator Fear Phenomenon**
 
 ### **Historical Context**
