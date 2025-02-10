@@ -29,6 +29,9 @@ css: |
 ## **Introduction: The Elevator as a Symbol of Change**
 > The podcast explores how people resist new technologies and how elevators played a major role in transforming society.
 
+![Vintage Elevator](https://i.ytimg.com/vi/UtkAJscxbZU/maxresdefault.jpg)
+
+
 - The story begins in **1913 at a royal wedding in Berlin**, where Tsar Nicholas II refused to use an elevator due to outdated court protocols.
 - Monarchs like **the German Kaiser, the British Queen, and Kaiser Franz Joseph I** all refused to use elevators.
 - Elevators were seen as a **democratic space**—there was no first-class section, and everyone stood together.
