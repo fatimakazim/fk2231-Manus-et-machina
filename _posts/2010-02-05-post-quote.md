@@ -63,10 +63,7 @@ css: |
 - Before elevators, buildings were **limited to six stories**.
 - **Wealthy people lived on lower floors**, while the poor climbed stairs to upper floors.
 - **After elevators:** The **rich moved to penthouses**, pushing the poor downward.
-
-## **2. Skyscrapers Became Possible**
 - Elevators were **blamed for rising crime rates**—thieves could escape quickly.
-- Some believed they caused **"brain fever"** due to motion.
 
 ---
 
@@ -98,6 +95,8 @@ css: |
 ### **Why People Feared Automatic Elevators**
 - **No windows, closed space, little sensation of movement.**
 - **Lack of trust**—people felt safer with a human operator present.
+- **1952:** Daily Oklahoman article linking **automatic elevators to crime**.
+- **1957:** Courier Journal describes elevators as "thinking" machines that could trap people.
 
 
 ### **The Elevator Industry’s PR Campaign**
@@ -105,27 +104,13 @@ css: |
 - **Used women in ads to normalize automation.**
 - Highlighted **cost savings for businesses**.
 
-![Society](https://clickamericana.com/wp-content/uploads/1890-Victorian-elevator-from-J.W.-Reedy-Elevator-Mfg-Co-2-750x860.jpg)
-## **The Elevator Fear Phenomenon**
-
-### **Historical Context**
-- **1952:** Daily Oklahoman article linking **automatic elevators to crime**.
-- **1957:** Courier Journal describes elevators as "thinking" machines that could trap people.
-
-### **Pop Culture Reflections**
-- **1983 Dutch horror film "The Lift"** portrays an elevator as a **monstrous entity**.
-
----
-
 ## **Parallels with Self-Driving Cars**
 
 ### **Technological Comparison**
 - **Elevators removed human error**, making them safer.
 - **Self-driving cars aim to do the same** but face resistance.
 
-### **Recurring Fears**
-- **Job loss concerns:** Just as **operators were replaced**, drivers may be next.
-- Anxiety over **machines making independent decisions**.
+![Society](https://clickamericana.com/wp-content/uploads/1890-Victorian-elevator-from-J.W.-Reedy-Elevator-Mfg-Co-2-750x860.jpg)
 
 ---
 ![Society](https://cdnassets.hw.net/dims4/GG/1101660/2147483647/resize/480x%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2F49%2F05%2F3a765a0a431ca8896efeda1163a4%2Fbthl-hero.jpg)
@@ -143,9 +128,6 @@ css: |
 ---
 ![Society](https://media.cnn.com/api/v1/images/stellar/prod/180831113528-gettyimages-173979611.jpg?q=w_2676,h_3430,x_0,y_0,c_fill)
 ## **What the Future Holds**
-
-### **Self-Driving Cars and Urban Transformation**
-- Some predict **less congestion**, others worry about **more idle cars**.
 
 ### **Optimistic Outlook**
 - History shows **humans adapt** and benefit from technological advances.
