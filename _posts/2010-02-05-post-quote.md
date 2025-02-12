@@ -38,6 +38,7 @@ css: |
 
 ### **1854: The Invention of the Safety Elevator**
 - **Elijah Otis** demonstrated the first safety brake for elevators at a Manhattan expo.
+- had a unique spring-loaded safety brake that prevented the elevator from plummeting if the hoisting rope broke.
 - Publicity stunt: **He stood 50 feet high, had the rope cut, and survived.**
 ![The Safety Elevator](https://thumbs.6sqft.com/wp-content/uploads/2016/08/04175814/elisha-otis-first-elevator-.jpg?w=1560&format=webp)
 
