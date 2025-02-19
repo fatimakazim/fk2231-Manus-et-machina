@@ -55,9 +55,13 @@ Ayurveda, the ancient Indian system of medicine, was well-developed during the G
 - Explained techniques like cataract surgery, rhinoplasty (nose surgery), skin grafting, and cesarean sections.
 - Mentioned methods of sterilization, including the use of wine as an antiseptic.
 
+![img](https://historyfinder.in/wp-content/uploads/2021/08/gupta-empire-golden-age-of-india.jpg)
+
 ### **Art and Architecture**
 - **Ajanta and Bagh cave paintings**  
 - **Iron Pillar of Delhi (rust-resistant technology)**: This structure is renowned for its resistance to corrosion, showcasing advanced metallurgical skills. Studies suggest that the high phosphorus content in the iron contributes to its longevity.
+
+![img](https://media.cnn.com/api/v1/images/stellar/prod/d7yjty.jpg?c=original)
 
 ### **Literature**
 - **Ramayana and Mahabharata completion**  
