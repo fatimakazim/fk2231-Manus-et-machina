@@ -54,8 +54,8 @@ Ayurveda, the ancient Indian system of medicine, was well-developed during the G
 - Described over 300 surgical procedures and 120 surgical instruments.
 - Explained techniques like cataract surgery, rhinoplasty (nose surgery), skin grafting, and cesarean sections.
 - Mentioned methods of sterilization, including the use of wine as an antiseptic.
-
 ![img](https://historyfinder.in/wp-content/uploads/2021/08/gupta-empire-golden-age-of-india.jpg)
+
 
 ### **Art and Architecture**
 - **Ajanta and Bagh cave paintings**  
