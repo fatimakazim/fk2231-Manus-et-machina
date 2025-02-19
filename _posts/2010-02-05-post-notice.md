@@ -89,15 +89,19 @@ Composition: Oral traditions, later written (400 BCE – 200 CE)
 #### **Mythological Inventions**
 1. **Vimanas (Flying Machines)**  
    - Described as flying chariots or aerial vehicles used by gods, kings, and warriors. While many of these references are mythological, some interpretations suggest they could have been based on real technologies or allegories related to advanced machinery.
-
+![img](https://miro.medium.com/v2/resize:fit:1400/1*yfb3y5YxUHdjAJbkX3rSNA.jpeg)
    - **Description in Texts**:  
      The **Mahabharata** mentions a flying chariot called "Vimana." The text describes how the gods would ride in these flying machines, often moving across vast distances at high speeds.
 
    - **Technological Interpretation**:  
      Some modern researchers, particularly proponents of the ancient astronaut theory, suggest that Vimanas were ancient vehicles with advanced technology, possibly even extraterrestrial in origin.
 
+     ![img](https://airpowerasia.com/wp-content/uploads/2020/08/heading-look4ward.co_.uk_.jpg?w=1000)
+
 2. **Brahmastra (Divine Weapons)**  
    - The Brahmastra is described as a powerful and destructive weapon in ancient Indian texts. It is said to have been created by the god Brahma, who granted it to those worthy of wielding it. The weapon's characteristics suggest it had immense destructive power, often described as comparable to modern nuclear weapons.
+
+    ![img](https://i.ytimg.com/vi/fx6qBYJytgQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA1Jg67UhkSZwEu8V9sbwclFzEQfw)
 
    - **Description in Texts**:  
      When fired, it was said to create a blinding flash, scorch the earth, and leave a wasteland in its wake. It was considered a weapon of last resort, and only those with divine knowledge could invoke it.
