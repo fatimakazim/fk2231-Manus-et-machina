@@ -64,7 +64,8 @@ Ayurveda, the ancient Indian system of medicine, was well-developed during the G
 ![img](https://media.cnn.com/api/v1/images/stellar/prod/d7yjty.jpg?c=original)
 
 ### **Literature**
-- **Ramayana and Mahabharata completion**  
+- **Ramayana and Mahabharata completion** 
+-historical saga, a religious scripture, and a philosophical text all combined into one. 
 - **Kalidasa’s works (Meghaduta, Raghuvamsa)**  
 - **Compilation of 18 Puranas**
 
@@ -77,6 +78,8 @@ While the Gupta Empire's documented contributions to mathematics, astronomy, and
 Time Period: Traditionally dated to 3100 BCE (Historically debated: 1000 BCE – 400 BCE)  
 Central Theme: Kurukshetra War between Pandavas and Kauravas  
 Composition: Oral traditions, later written (400 BCE – 200 CE)
+
+![img](https://i.redd.it/uq8c0r5uqoa31.png)
 
 ### **Technological & Cultural Contributions**
 
