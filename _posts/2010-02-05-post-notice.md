@@ -33,6 +33,8 @@ Time Period: 319 CE – 550 CE
 Notable Rulers: Chandragupta I, Samudragupta, Chandragupta II  
 Golden Age of India: Flourishing arts, science, and literature
 
+![Map](https://cdn.britannica.com/03/1603-050-5C9897A6/Gupta-empire.jpg)
+
 ## **Achievements of the Gupta Empire**
 
 ### **Science and Mathematics**
