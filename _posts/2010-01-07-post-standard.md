@@ -9,7 +9,7 @@ tags:
 
 #  Frank Lloyd Wright: Master of Organic Architecture
 
-![Map]([Image URL])
+![Map]([https://upload.wikimedia.org/wikipedia/commons/3/30/Frank_Lloyd_Wright_portrait.jpg])
 
 ## Introduction: Who Was Frank Lloyd Wright?
 
@@ -39,7 +39,7 @@ Wright’s Prairie Style emerged in the early 20th century and was marked by:
 - Integration with the surrounding environment  
 
 Prairie Style was Wright’s answer to ornate Victorian architecture, favoring a minimalist aesthetic rooted in harmony and function.  
-(Source: *The Spruce*, *Architectural Digest*)
+
 
 ### Organic Architecture
 
@@ -51,13 +51,13 @@ Wright expanded his vision through the philosophy of *organic architecture*, whi
 - Enhance the relationship between the building and its occupants  
 
 This philosophy would define Wright’s later work and influence generations of architects.  
-(Source: *Architectural Digest*)
+
 
 ##  Major Works of Frank Lloyd Wright
 
 ### Fallingwater (1935) – Pennsylvania
 
-![Map]([Image URL])
+![Map]([https://www.dailyartmagazine.com/wp-content/uploads/2021/05/Frank-Lloyd-Wright-Fallingwater-1935-Mill-Run-Pennsylvania-US-underthethatch.co_.uk_-1024x681.jpg])
 
 - Built directly over a waterfall in rural Pennsylvania  
 - Considered a masterpiece of organic design  
@@ -66,7 +66,7 @@ This philosophy would define Wright’s later work and influence generations of 
 
 ### Robie House (1909) – Chicago, Illinois
 
-![Map]([Image URL])
+![Map]([https://franklloydwright.org/wp-content/uploads/2017/02/robie-house.jpg])
 
 - A quintessential Prairie Style home  
 - Showcases bold horizontal lines and flowing spaces  
@@ -75,7 +75,7 @@ This philosophy would define Wright’s later work and influence generations of 
 
 ### Solomon R. Guggenheim Museum (1959) – New York City
 
-![Map]([Image URL])
+![Map]([https://media.admiddleeast.com/photos/65094b2bda89711082579069/16:9/w_2560%2Cc_limit/GettyImages-1021101532.jpg])
 
 - Wright’s final major work, completed the year of his death  
 - Breaks away from traditional museum design  
@@ -84,7 +84,7 @@ This philosophy would define Wright’s later work and influence generations of 
 
 ### Taliesin (1911) – Spring Green, Wisconsin
 
-![Map]([Image URL])
+![Map]([https://wrightinwisconsin.org/sites/default/files/Taliesin%202015%200012.jpg])
 
 - Wright’s personal home and architectural laboratory  
 - Located in his native Wisconsin  
@@ -93,7 +93,7 @@ This philosophy would define Wright’s later work and influence generations of 
 
 ### Taliesin West (1937) – Scottsdale, Arizona
 
-![Map]([Image URL])
+![Map]([https://www.andrewtboyne.com/organicarchitecture/wright_taliesinw/taliesinw1.jpg])
 
 - Wright’s winter residence and studio  
 - Constructed with desert rocks and materials sourced from the surrounding landscape  
